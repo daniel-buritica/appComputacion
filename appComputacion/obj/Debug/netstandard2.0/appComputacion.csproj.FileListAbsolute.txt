@@ -1,0 +1,15 @@
+C:\Users\burit\source\repos\appComputacion\appComputacion\bin\Debug\netstandard2.0\appComputacion.deps.json
+C:\Users\burit\source\repos\appComputacion\appComputacion\bin\Debug\netstandard2.0\appComputacion.dll
+C:\Users\burit\source\repos\appComputacion\appComputacion\bin\Debug\netstandard2.0\ref\appComputacion.dll
+C:\Users\burit\source\repos\appComputacion\appComputacion\bin\Debug\netstandard2.0\appComputacion.pdb
+C:\Users\burit\source\repos\appComputacion\appComputacion\obj\Debug\netstandard2.0\appComputacion.csproj.AssemblyReference.cache
+C:\Users\burit\source\repos\appComputacion\appComputacion\obj\Debug\netstandard2.0\appComputacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\burit\source\repos\appComputacion\appComputacion\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\burit\source\repos\appComputacion\appComputacion\obj\Debug\netstandard2.0\pantallaAppComputacion.xaml.g.cs
+C:\Users\burit\source\repos\appComputacion\appComputacion\obj\Debug\netstandard2.0\appComputacion.AssemblyInfoInputs.cache
+C:\Users\burit\source\repos\appComputacion\appComputacion\obj\Debug\netstandard2.0\appComputacion.AssemblyInfo.cs
+C:\Users\burit\source\repos\appComputacion\appComputacion\obj\Debug\netstandard2.0\appComputacion.csproj.CoreCompileInputs.cache
+C:\Users\burit\source\repos\appComputacion\appComputacion\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\burit\source\repos\appComputacion\appComputacion\obj\Debug\netstandard2.0\appComputacion.dll
+C:\Users\burit\source\repos\appComputacion\appComputacion\obj\Debug\netstandard2.0\ref\appComputacion.dll
+C:\Users\burit\source\repos\appComputacion\appComputacion\obj\Debug\netstandard2.0\appComputacion.pdb
